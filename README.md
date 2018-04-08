@@ -1,3 +1,3 @@
 # ChatServer
 ChatServer
-![alt text](prtsc/ChatScreen.png)
+![alt text](.idea/prtsc/ChatScreen.png)
