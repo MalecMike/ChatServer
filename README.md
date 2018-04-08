@@ -1,1 +1,1 @@
-![prtsc](ChatScreen.png)
+![ChatScreen.png](ChatScreen.png)
