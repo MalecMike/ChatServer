@@ -1,1 +1,0 @@
-![ChatScreen.png](ChatScreen.png)
